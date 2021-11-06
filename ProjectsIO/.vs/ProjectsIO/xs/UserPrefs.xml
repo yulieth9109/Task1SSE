@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{C201F1CF-48D7-4548-96C6-81C1953D221C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../HelloWorld/HelloWorld/HashValue.cs">
+    <Files>
+      <File FileName="../HelloWorld/HelloWorld/HashValue.cs" Line="32" Column="8" />
+      <File FileName="TestCalculator/UnitTest3.cs" Line="11" Column="29" />
+      <File FileName="TestCalculator/UnitTest2.cs" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ProjectsIO" expanded="True" selected="True">
+            <Node name="TestCalculator" expanded="True">
+              <Node name="TestCalculator" expanded="True">
+                <Node name="UnitTest3" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
